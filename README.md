@@ -23,5 +23,5 @@ https://www.fsoco-dataset.com/
 Converted to YOLO txt format and splitted into train/val: 
 https://www.kaggle.com/datasets/kaspermaarschalk/fscone
 
-Kaggle notbook for training is included in kaggle_training.ipynb
-and cloud config is available at: https://www.kaggle.com/datasets/kaspermaarschalk/kg-conf-new
+Kaggle notbook for training is included in kaggle_training.ipynb DO NOT use the included cloud_config in https://www.kaggle.com/datasets/kaspermaarschalk/fscone
+Update cloud config is available at: https://www.kaggle.com/datasets/kaspermaarschalk/kg-conf-new
